@@ -36,11 +36,11 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
     <div class="timeline-date">2025.09.12</div>
     <div class="timeline-content">One paper accepted by <strong>Neurocomputing</strong>: "Fused Adaptive Tensor Log-Determinant and Local Smoothness Regularizer for Multi-View Clustering" (CCF C, 中科院二区).</div>
   </div>
-    <div class="timeline-item">
+  <div class="timeline-item">
     <div class="timeline-date">2025.05.21</div>
     <div class="timeline-content">One paper accepted by <strong>Neural Networks</strong>: "Scalable One-Pass Multi-View Clustering with Tensorized Multiscale Bipartite Graphs Fusion" (CCF B, 中科院二区).</div>
   </div>
-      <div class="timeline-item">
+  <div class="timeline-item">
     <div class="timeline-date">2025.05.18</div>
     <div class="timeline-content">One paper accepted by <strong>Knowledge-Based Systems</strong>: "Unlocking Deep Structures: Anchor-Side Filtering for Efficient Multiview Clustering" (CCF C, 中科院一区).</div>
   </div>
