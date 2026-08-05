@@ -193,7 +193,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>CCF B · 中科院一区</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication">
+    <img src="{{ '/images/TAGML.png' | relative_url }}" alt="Publication">
   </div>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.patcog.2026.114144" class="title">Tensorized Anchor Graphs with Multi-Scale Learning for One-Step Multi-View Clustering</a>
@@ -209,7 +209,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>CCF B · 中科院一区</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication">
+    <img src="{{ '/images/TPNAGL.png' | relative_url }}" alt="Publication">
   </div>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.patcog.2026.113876" class="title">Tensorized Pure Nonlinear Anchor Graph Learning for Multi-View Clustering</a>
@@ -222,18 +222,19 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
   </div>
 </div>
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='badge'>CCF C · 中科院一区</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication">
+    <div class='badge'>CCF C · 中科院二区</div>
+    <img src="{{ '/images/FATLLSR.png' | relative_url }}" alt="Publication">
   </div>
   <div class='paper-box-text'>
-    <a href="https://doi.org/10.1016/j.knosys.2025.113810" class="title">Unlocking Deep Structures: Anchor-Side Filtering for Efficient Multiview Clustering on High-Order Bipartite Graphs</a>
+    <a href="https://doi.org/10.1016/j.neucom.2025.131564" class="title">Fused Adaptive Tensor Log-Determinant and Local Smoothness Regularizer for Multi-View Clustering</a>
     <div class="authors"><strong>Fei Wang</strong>, Guo-Fu Lu</div>
-    <div class="venue"><em><strong>Knowledge-Based Systems</strong>, vol. 324, 2025, 113810</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Proposes anchor-side filtering for efficient multi-view clustering on high-order bipartite graphs.</p>
+    <div class="venue"><em><strong>Neurocomputing</strong>, 2025, 131564</em></div>
+    <p class="desc"><strong>TL;DR:</strong> Proposes fused adaptive tensor log-determinant and local smoothness regularization for multi-view clustering.</p>
     <div class="links">
-      <a href="https://doi.org/10.1016/j.knosys.2025.113810">[Paper]</a>
+      <a href="https://doi.org/10.1016/j.neucom.2025.131564">[Paper]</a>
     </div>
   </div>
 </div>
@@ -241,7 +242,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>CCF B · 中科院二区</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication">
+    <img src="{{ '/images/scalable.png' | relative_url }}" alt="Publication">
   </div>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.neunet.2025.107669" class="title">Scalable One-Pass Multi-View Clustering with Tensorized Multiscale Bipartite Graphs Fusion</a>
@@ -256,16 +257,16 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='badge'>CCF C · 中科院二区</div>
-    <img src="{{ '/images/project-placeholder.svg' | relative_url }}" alt="Publication">
+    <div class='badge'>CCF C · 中科院一区</div>
+    <img src="{{ '/images/unlock.png' | relative_url }}" alt="Publication">
   </div>
   <div class='paper-box-text'>
-    <a href="https://doi.org/10.1016/j.neucom.2025.131564" class="title">Fused Adaptive Tensor Log-Determinant and Local Smoothness Regularizer for Multi-View Clustering</a>
+    <a href="https://doi.org/10.1016/j.knosys.2025.113810" class="title">Unlocking Deep Structures: Anchor-Side Filtering for Efficient Multiview Clustering on High-Order Bipartite Graphs</a>
     <div class="authors"><strong>Fei Wang</strong>, Guo-Fu Lu</div>
-    <div class="venue"><em><strong>Neurocomputing</strong>, 2025, 131564</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Proposes fused adaptive tensor log-determinant and local smoothness regularization for multi-view clustering.</p>
+    <div class="venue"><em><strong>Knowledge-Based Systems</strong>, vol. 324, 2025, 113810</em></div>
+    <p class="desc"><strong>TL;DR:</strong> Proposes anchor-side filtering for efficient multi-view clustering on high-order bipartite graphs.</p>
     <div class="links">
-      <a href="https://doi.org/10.1016/j.neucom.2025.131564">[Paper]</a>
+      <a href="https://doi.org/10.1016/j.knosys.2025.113810">[Paper]</a>
     </div>
   </div>
 </div>
