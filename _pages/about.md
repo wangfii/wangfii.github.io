@@ -166,7 +166,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
       <span class="exp-time">2024.09 - Present</span>
     </div>
     <div class="exp-org">Anhui Polytechnic University</div>
-    <p class="exp-desc">Academic Master's degree. Ranked <strong>2nd in academic performance, 1st in comprehensive evaluation</strong>. Research on multi-view clustering advised by Prof. Guo-Fu Lu.</p>
+    <p class="exp-desc">Academic Master's degree. Research on multi-view clustering advised by Prof. Guo-Fu Lu.</p>
   </div>
 </div>
 
