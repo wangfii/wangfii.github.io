@@ -159,7 +159,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
 # 🎓 Education
 
 <div class="exp-card">
-  <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University">
+  <img src="{{ '/images/xiaohui.png' | relative_url }}" class="exp-logo" alt="University">
   <div class="exp-content">
     <div class="exp-header">
       <h3 class="exp-role">M.S. in Computer Science (Software Engineering)</h3>
@@ -171,7 +171,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
 </div>
 
 <div class="exp-card">
-  <img src="{{ '/images/building-icon.svg' | relative_url }}" class="exp-logo" alt="University">
+  <img src="{{ '/images/xiaohui.png' | relative_url }}" class="exp-logo" alt="University">
   <div class="exp-content">
     <div class="exp-header">
       <h3 class="exp-role">B.E. in Computer Science (Software Engineering)</h3>
@@ -271,11 +271,6 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
 # 🏆 Honors and Awards
 
 - *2024-2025*, <span class="highlight-honor">National Scholarship</span> <span class="zh-translation">（国家奖学金）</span> & First-Class University Scholarship <span class="zh-translation">（校一等奖学金）</span>.
-- *2020-2024*, <span class="highlight-honor">Anhui Heli Scholarship</span> <span class="zh-translation">（安徽合力奖学金）</span>, University Special Scholarship <span class="zh-translation">（校特等奖学金）</span>, and Outstanding Student Award <span class="zh-translation">（校三好学生）</span>.
-- *2024.11*, 3rd Prize (East China Region), <span class="highlight-award">6th National University Computer Ability Challenge</span> <span class="zh-translation">（第六届全国高校计算机能力挑战赛华东赛区三等奖）</span>.
-- *2023.04*, 2nd Prize, <span class="highlight-award">Anhui Province University Student Network and Distributed System Innovation Design Competition</span> <span class="zh-translation">（安徽省大学生网络与分布式系统创新设计大赛二等奖）</span>.
-- *2022.07*, 3rd Prize (National Level), <span class="highlight-award">National University Student Computer Ability Challenge — AI Guide Dog</span> <span class="zh-translation">（全国大学生计算机能力挑战赛人工智能导盲犬全国三等奖）</span>.
-- *2021.07*, 2nd Prize (National Level), <span class="highlight-award">16th National University Student Intelligent Car Competition — Intelligent Vision Group</span> <span class="zh-translation">（第十六届全国大学生智能汽车竞赛智能视觉组全国二等奖）</span>.
 
 ---
 
