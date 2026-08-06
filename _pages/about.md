@@ -11,7 +11,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 # 👋 About Me
 
-I am a **Master's candidate** in Computer Science (Software Engineering) at **Anhui Polytechnic University**, supervised by Prof. Guo-Fu Lu. My research focuses on **multi-view clustering**, where I develop efficient and scalable algorithms that fuse heterogeneous information from multiple views.
+I am a **Master's candidate** in Computer Science (Software Engineering) at **Anhui Polytechnic University**, supervised by Prof. Gui-Fu Lu. My research focuses on **multi-view clustering**, where I develop efficient and scalable algorithms that fuse heterogeneous information from multiple views.
 
 My work addresses core challenges in multi-view clustering — computational complexity, complementary information utilization across views, and high-order structural relationship modeling. I build anchor graph-based frameworks enhanced with **tensor low-rank constraints**, **multi-scale fusion**, **anchor-side filtering**, and **adaptive regularization** to improve both clustering accuracy and scalability.
 
@@ -46,7 +46,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2024.09</div>
-    <div class="timeline-content">Started M.S. in Computer Science at Anhui Polytechnic University, advised by Prof. Guo-Fu Lu.</div>
+    <div class="timeline-content">Started M.S. in Computer Science at Anhui Polytechnic University, advised by Prof. Gui-Fu Lu.</div>
   </div>
 </div>
 
@@ -166,7 +166,7 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
       <span class="exp-time">2024.09 - Present</span>
     </div>
     <div class="exp-org">Anhui Polytechnic University</div>
-    <p class="exp-desc">Academic Master's degree. Research on multi-view clustering advised by Prof. Guo-Fu Lu.</p>
+    <p class="exp-desc">Academic Master's degree. Research on multi-view clustering advised by Prof. Gui-Fu Lu.</p>
   </div>
 </div>
 
@@ -197,9 +197,8 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
   </div>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.patcog.2026.114144" class="title">Tensorized Anchor Graphs with Multi-Scale Learning for One-Step Multi-View Clustering</a>
-    <div class="authors"><strong>Fei Wang</strong>, Guo-Fu Lu</div>
+    <div class="authors"><strong>Fei Wang</strong>, Gui-Fu Lu</div>
     <div class="venue"><em><strong>Pattern Recognition</strong>, vol. 180, 2026, 114144</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Proposes a one-step multi-view clustering method using tensorized anchor graphs with multi-scale learning.</p>
     <div class="links">
       <a href="https://doi.org/10.1016/j.patcog.2026.114144">[Paper]</a>
     </div>
@@ -213,9 +212,8 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
   </div>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.patcog.2026.113876" class="title">Tensorized Pure Nonlinear Anchor Graph Learning for Multi-View Clustering</a>
-    <div class="authors"><strong>Fei Wang</strong>, Guo-Fu Lu</div>
+    <div class="authors"><strong>Fei Wang</strong>, Gui-Fu Lu</div>
     <div class="venue"><em><strong>Pattern Recognition</strong>, vol. 179, 2026, 113876</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Introduces tensorized pure nonlinear anchor graph learning for enhanced multi-view clustering performance.</p>
     <div class="links">
       <a href="https://doi.org/10.1016/j.patcog.2026.113876">[Paper]</a>
     </div>
@@ -230,9 +228,8 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
   </div>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.neucom.2025.131564" class="title">Fused Adaptive Tensor Log-Determinant and Local Smoothness Regularizer for Multi-View Clustering</a>
-    <div class="authors"><strong>Fei Wang</strong>, Guo-Fu Lu</div>
+    <div class="authors"><strong>Fei Wang</strong>, Gui-Fu Lu</div>
     <div class="venue"><em><strong>Neurocomputing</strong>, 2025, 131564</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Proposes fused adaptive tensor log-determinant and local smoothness regularization for multi-view clustering.</p>
     <div class="links">
       <a href="https://doi.org/10.1016/j.neucom.2025.131564">[Paper]</a>
     </div>
@@ -246,9 +243,8 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
   </div>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.neunet.2025.107669" class="title">Scalable One-Pass Multi-View Clustering with Tensorized Multiscale Bipartite Graphs Fusion</a>
-    <div class="authors"><strong>Fei Wang</strong>, Guo-Fu Lu</div>
+    <div class="authors"><strong>Fei Wang</strong>, Gui-Fu Lu</div>
     <div class="venue"><em><strong>Neural Networks</strong>, vol. 190, 2025, 107669</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Develops a scalable one-pass multi-view clustering method with tensorized multiscale bipartite graph fusion.</p>
     <div class="links">
       <a href="https://doi.org/10.1016/j.neunet.2025.107669">[Paper]</a>
     </div>
@@ -264,7 +260,6 @@ I am always open to discussions and collaborations. Feel free to drop me an emai
     <a href="https://doi.org/10.1016/j.knosys.2025.113810" class="title">Unlocking Deep Structures: Anchor-Side Filtering for Efficient Multiview Clustering on High-Order Bipartite Graphs</a>
     <div class="authors"><strong>Fei Wang</strong>, Guo-Fu Lu</div>
     <div class="venue"><em><strong>Knowledge-Based Systems</strong>, vol. 324, 2025, 113810</em></div>
-    <p class="desc"><strong>TL;DR:</strong> Proposes anchor-side filtering for efficient multi-view clustering on high-order bipartite graphs.</p>
     <div class="links">
       <a href="https://doi.org/10.1016/j.knosys.2025.113810">[Paper]</a>
     </div>
